@@ -8,7 +8,7 @@ Course used to learn two fronts of development which are, the responsive layout 
 
 ## Demo
 
-
+https://appeperia.vercel.app/
 
 ## Project Features
 
@@ -30,7 +30,7 @@ Course used to learn two fronts of development which are, the responsive layout 
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/victorhubarb/Appeperia
 ```
 
 ## Future Implementations
