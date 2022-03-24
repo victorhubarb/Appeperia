@@ -12,9 +12,25 @@ https://appeperia.vercel.app/
 
 ## Project Features
 
-- Good accessibility practices applied on all fronts of the page using placeholders, texts, semantic tags for a better understanding of the user who uses external audio or page reading applications such as NVDA and JAWS.
+- Improve your site for screen reader users;
+- Understand how a blind person uses the internet;
+- Learn to test your site using NVDA;
+- Realize how details in the code can impact people;
+- Make front-end techniques that can help your users;
+- Make your project even more inclusive.
 
-- Validation of some form items along with error messages and accessibility-focused support.
+- Further improve your site for screen reader users;
+- Find out how to make a _modal_ accessible;
+- See some care in your carousel;
+- Realize how details on forms can impact people;
+- Write JavaScript code to help with accessibility.
+
+- Understand the web page development process.
+- Meet Emmet, a tool to speed up code writing.
+- Improve code maintenance with CSS variables.
+- Write semantic code that helps with accessibility and SEO.
+- Learn to deal with adapting different layouts.
+- Improve your responsiveness knowledge.
 
 ## Technologies Used
 
@@ -22,7 +38,7 @@ https://appeperia.vercel.app/
   <img align="center" alt="Vic-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vic-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Vic-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Vic-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
 ## Project Startup
